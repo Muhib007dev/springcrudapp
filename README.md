@@ -1,2 +1,2 @@
 # springcrudapp
-# basic app which is build in spring mvc + spring orm 
+# basic app in spring mvc + spring orm 
